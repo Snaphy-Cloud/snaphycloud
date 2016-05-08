@@ -1,0 +1,28 @@
+{
+  "name": "snaphy-cloud",
+  "authors": [
+    "robinskumar73 <robinskumar73@gmail.com>"
+  ],
+  "description": "Snaphy home page for cloud",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "snaphy-cloud",
+    "snaphy",
+    "automata"
+  ],
+  "license": "MIT",
+  "homepage": "http://snaphy.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
