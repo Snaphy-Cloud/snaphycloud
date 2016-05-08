@@ -1,0 +1,1 @@
+##Snaphy Cloud website build on Go
