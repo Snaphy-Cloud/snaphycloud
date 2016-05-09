@@ -1,5 +1,4 @@
-/**
- * Created by robins on 8/5/16.
- */
-
-angular.module('snaphy-cloud');
+"use strict";
+(function(window, $, angular){
+    angular.module("snaphy-cloud", ['ui.router'])
+})(window, $, angular);
